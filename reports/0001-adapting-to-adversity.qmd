@@ -14,11 +14,11 @@ format: html
 
 ## [OPEN]
 
-If your supply chain runs through the Central American Dry Corridor — say, agricultural suppliers, rural processors, seasonal workers — then drought risk is already in your cost structure. You just may not have priced it that way.
+If your supply chain runs through the Central American Dry Corridor, touching agricultural suppliers, rural processors, and seasonal workers, then drought risk is already in your cost structure. You just may not have priced it that way.
 
-If your workforce lives in informal settlements that flood from time to time, that's an operational risk. Not a Corporate Social Responsibility issue. Not someone else's problem. An operational risk.
+If your workforce lives in informal settlements that flood from time to time, that's not a Corporate Social Responsibility issue. It's an operational risk.
 
-The World Bank just published a report called *Adapting to Adversity*. It's framed around poverty and climate change in Latin America and the Caribbean, and if you read it the way it's written — as a development economics document — you might file it away and move on. But read it as a business risk briefing, and it maps almost exactly onto the things that quietly kill margins and disrupt operations in the region: supply chain fragility, workforce unavailability, infrastructure failure, and the governments that may or may not show up to help.
+The World Bank just published a report called *Adapting to Adversity*. It's framed around poverty and climate change in Latin America and the Caribbean, and if you read it the way it's written, as a development economics document, you might file it away and move on. But read it from a business perspective and it maps almost exactly onto the things that quietly kill margins and disrupt operations in the region. Think supply chain fragility, workforce unavailability, infrastructure failure, and the governments that may or may not show up to help.
 
 That's what we're doing today. Not a policy review. A business read.
 
@@ -28,55 +28,55 @@ That's what we're doing today. Not a policy review. A business read.
 
 ## [SECTION 1: DO YOU KNOW WHERE YOUR EXPOSURE IS?]
 
-Start with geography. As of 2020, about 240 million people in Latin America and the Caribbean — more than one in three — live in areas exposed to at least one major climate hazard. Droughts, heat waves, hurricanes, floods, landslides.
+Let's start with geography. As of 2020, about two-hundred and forty million people in Latin America and the Caribbean, more than one in three, live in areas exposed to at least one major climate hazard. Droughts, heat waves, hurricanes, floods, landslides.
 
 Now overlay that with where value chains in the region actually run.
 
-The Central American Dry Corridor — El Salvador, Guatemala, Honduras, Nicaragua — is one of the world's most drought-exposed zones. It's also a critical corridor for coffee, sugar cane, palm oil, and apparel manufacturing. Northeast Brazil, the Chaco region, and the Caribbean coast are also high-risk hotspots. In total, the report estimates 64 million people — about 10% of the continent's population — live in zones where poverty and climate hazard genuinely overlap.
+The Central American Dry Corridor, covering Guatemala, El Salvador, Honduras, and Nicaragua, is one of the world's most drought-exposed zones. The report documents how coffee farmers across this corridor have already been hurt by climate shifts, and the same dynamic applies to whatever sits in your supply chain there. Northeast Brazil, the Chaco region, and the Caribbean coast are also high-risk hotspots. In total, the report estimates that 64 million people, roughly 10% of the continent's population, live in zones where poverty and climate hazard overlap.
 
-Here's the business translation: that 64 million is not an abstract humanitarian figure. It's your tier-one and tier-two supplier base. It's your seasonal workforce. It's the people who drive your trucks and run your processing facilities. And the data shows they are disproportionately exposed.
+Here's the business translation. That 64 million is not an abstract humanitarian figure. It's your tier-one and tier-two supplier base. It's your seasonal workforce. It's the people who drive your trucks and run your processing facilities. And the data shows they are disproportionately exposed.
 
-The report finds that nearly 45% of poor households in the region are exposed to at least one severe hazard. For drought specifically — the most operationally relevant hazard for agriculture and food supply chains — 18.6% of poor households are in exposed zones, compared to 11.4% of non-poor ones. That gap is not random. Poor households cluster near informal work, which clusters near the agricultural and logistics hubs that also happen to sit in high-risk geography.
+The report finds that nearly 45% of poor households in the region are exposed to at least one severe hazard. For drought specifically, which is the most relevant hazard for agriculture and food supply chains, 18.6% of poor households are in exposed zones, compared to 11.4% of non-poor households. That gap is not random. Poor households cluster near informal work, which clusters near the agricultural and logistics hubs that also happen to sit in high-risk geography.
 
 Most companies operating in the region have not done this mapping. Most don't know which of their suppliers sit in a drought corridor, or which of their distribution centers is in a flood zone. That's the first gap.
 
-> **✦ PULL QUOTE:** *"Your exposure map and your supplier map are the same document. Most companies just haven't put them side by side."*
+> **✦ PULL QUOTE:** *"Your exposure map and your supplier map are one and the same. Most companies just haven't compared them side by side."*
 
 ---
 
 ## [SECTION 2: THE HIT ISN'T THE HURRICANE — IT'S WHAT COMES AFTER]
 
-Here's something counterintuitive in the data, and it matters for how businesses should think about this risk.
+And here's something counterintuitive in the data, and it matters for how businesses should think about this risk.
 
 *[CUT TO: Figure ES.1 — two-panel chart. Open on the deaths panel (left).]*
 
-Between 1970 and 2024, climate fatalities in the region trended *down*. Better early warning systems, better disaster response. The catastrophic headline event — the one that triggers force majeure clauses and insurance claims — is actually getting less lethal.
+Between 1970 and 2024, climate fatalities in the region trended *down*, because of better early warning systems and better disaster response. The catastrophic headline event, the one that triggers insurance claims, is actually getting less lethal.
 
 *[TRANSITION: Slide or fade to the "people affected" panel (right). Hold on the flat trend line.]*
 
-But the number of people *affected* — meaning lives and livelihoods significantly disrupted — stayed stubbornly flat, even as the population grew and preparedness improved.
+But the number of people *affected*, meaning lives and livelihoods significantly disrupted, stayed stubbornly flat, even as the population grew and preparedness improved.
 
 *[RETURN TO CAMERA. Figure can remain as a lower-third or fade out.]*
 
 For a business, that distinction is everything.
 
-The catastrophic, insured event is not your main exposure. Your main exposure is the chronic disruption: the harvest that comes in 30% below forecast because of an irregular drought season. The worker who misses two weeks because their neighborhood flooded and they had to relocate their family. The road that washed out and added four days to your logistics cycle. The supplier who sold their livestock to survive a drought and has no buffer left when the next season goes bad.
+The catastrophic, insured event is not your main exposure. Your main exposure is the chronic disruption. It's the harvest that comes in well below forecast because of an irregular drought season. It's the worker who misses two weeks because their neighborhood flooded and they had to relocate their family. It's the road that washed out and added four days to your logistics cycle. It's the supplier who sold their livestock to survive a drought and now has no buffer when the next season goes bad.
 
 None of that is in an insurance claim. All of it is in your cost structure.
 
-The report documents what happens at the household level in detail: families forced to sell productive assets — animals, tools — to cope with one shock, which means they have no buffer when the next one hits. Workers cutting back on food and medical care. Children missing school. These aren't just social outcomes. They show up as workforce turnover, reduced productivity, and higher training costs. They show up in your operations.
+The report documents what happens at the household level in detail. Families are forced to sell productive assets, like animals and tools to cope with one shock, which means that they have no buffer when the next one hits. Workers cut back on food and medical care. Children miss school. These aren't just social outcomes. They show up as workforce turnover, reduced productivity, and higher training costs. They show up in your operations.
 
-> **✦ PULL QUOTE:** *"The disaster won't show up as a force majeure event. It'll show up as variance you can't explain — and can't hedge."*
+> **✦ PULL QUOTE:** *"The disaster won't show up as a force majeure event. It'll show up as variance you can't explain, and you won't be able to hedge it either."*
 
 ---
 
 ## [SECTION 3: THE COUNTRY YOU SOURCE FROM IS A RISK DECISION]
 
-The report compared what happens in different markets after a major climate event, and sorted countries by the quality of their social protection systems — nascent, emerging, or established.
+The report compared what happens in different markets after a major climate event and sorted countries by the quality of their social protection systems, grouping them as nascent, emerging, or established.
 
-In countries with established systems — Argentina, Brazil, Chile, the Dominican Republic, Uruguay — the poverty gap barely moves after a climate shock. People get support fast, they recover faster, and they're back in the workforce.
+In countries with established systems, like Argentina, Brazil, Chile, the Dominican Republic, and Uruguay, the poverty gap barely moves after a climate shock. People get support fast, they recover faster, and they're back in the workforce.
 
-In countries with nascent systems — Belize, Honduras, Paraguay — the poverty gap spikes and stays elevated for *years* after the same type of event.
+In countries with nascent systems, like Belize, Honduras, and Paraguay, the poverty gap spikes and stays elevated for *years* after the same type of event.
 
 *[CUT TO: Figure ES.2 — show all three lines from year zero. Let them animate or reveal left to right as the next sentence is spoken.]*
 
@@ -86,11 +86,11 @@ In countries with nascent systems — Belize, Honduras, Paraguay — the poverty
 
 Now, what does that mean for a business?
 
-It means the country you source from is a risk decision, whether you've made it consciously or not. The speed at which your local partners, your workforce, and your supply base recover from a climate event is partly determined by the resilience infrastructure of the country they're operating in. In a market like Uruguay, a bad storm disrupts operations for months. In Honduras, the same storm disrupts operations for years — because the workers don't have the support to recover quickly, and neither do your suppliers.
+It means the country you source from is a risk decision, whether you've made it consciously or not. The speed at which your local partners, your workforce, and your supply base recover from a climate event is partly determined by the resilience infrastructure of the country they're operating in. In a market like Uruguay, the data shows the poverty gap barely moves after a climate shock. People recover relatively quickly. In Honduras, the same shock keeps the poverty gap elevated for years. The workers don't have the support to recover quickly, and neither do your suppliers.
 
-Some markets in the region have also built really innovative climate risk financing tools. The Caribbean Catastrophe Risk Insurance Facility covers 23 countries and has paid out more than $200 million in fast, automatic payouts since 2007 — no slow claims process. Mexico's CADENA program provides weather-indexed insurance to farmers, with payouts that are triggered by measurable rainfall deficits. These tools matter because they determine how fast money gets to the people in your supply chain when something goes wrong.
+Some markets in the region have also built really innovative climate risk financing tools. The Caribbean Catastrophe Risk Insurance Facility, for example, covers 23 countries and has paid out more than $200 million in fast, automatic payouts since 2007, with no slow claims process to navigate. Mexico's CADENA program provides weather-indexed insurance to farmers, with payouts triggered by measurable rainfall deficits. These tools matter because they determine how fast money gets to the people in your supply chain when something goes wrong.
 
-When you're choosing between sourcing from Honduras and sourcing from Costa Rica — which has substantially stronger climate resilience infrastructure — that's a risk decision. The cost differential you're optimizing for may be smaller than the operational variance you're absorbing.
+So, when you're choosing between sourcing from Honduras and sourcing from Costa Rica, which has substantially stronger climate resilience infrastructure, that's a risk decision. The cost differential you're optimizing for may be smaller than the operational variance you're absorbing.
 
 > **✦ PULL QUOTE:** *"The country you source from is a risk decision. Whether you made it consciously is another question entirely."*
 
@@ -98,19 +98,19 @@ When you're choosing between sourcing from Honduras and sourcing from Costa Rica
 
 ## [SECTION 4: WHY YOUR WORKERS ARE STUCK THERE — AND WHAT YOU CAN DO ABOUT IT]
 
-Here's where the report gets into territory that most business readers would never look at — and shouldn't ignore.
+Here's where the report gets into territory that most business readers would never look at, and that they shouldn't ignore.
 
-Why do workers in your facilities and your suppliers' facilities live in flood-prone informal settlements? The easy answer is: they're poor and they don't have options. The report pushes further than that.
+Why do workers in your facilities and your suppliers' facilities live in flood-prone informal settlements? The easy answer is that they're poor and they don't have options, but the report pushes further than that.
 
-People in those settlements often know the risk. They're there because it's close to work — close to your factory, your processing plant, your distribution hub. There's no bus that goes anywhere safer. There's no affordable housing in a lower-risk area. They're not making a bad decision. They're making the only available one.
+People in those settlements often know the risk. They're there because it's close to work, close to your factory, your processing plant, your distribution hub. There's no bus that goes anywhere safer. There's no affordable housing in a lower-risk area. They're not making a bad decision. They're making the only available decision.
 
-And here's the part that's really surprising: they often don't invest in flood-proofing their own homes — not because they don't care, but because they don't own their homes. If you might get evicted at any time, why spend money improving a place you don't legally possess? A study in Peru found that after land titling — giving people formal ownership of the land they'd already been living on — housing investment increased 68%. In Ecuador, secure property rights triggered more community-level flood defense projects. In Argentina's shantytowns, families that got title to their land started improving their homes.
+And here's the part that's really surprising. They often don't invest in flood-proofing their own homes, not because they don't care, but because they don't own them. If you might get evicted at any time, why spend money improving a place you don't legally possess? A study in Peru found that after land titling, which gave people formal ownership of the land they'd already been living on, housing investment increased 68%. In Ecuador, secure property rights led to more community investment projects. In Argentina's shantytowns, families that got title to their land started improving their homes.
 
-The system your workers are living in is structurally leaving them exposed — and that exposure flows directly into your operational risk.
+The system your workers are living in is leaving them exposed, and that exposure flows directly into companies' operational risk.
 
-The political layer makes this harder. In many markets, local politicians trade emergency supplies — food, building materials, cash — for votes after disasters. This isn't just corruption. It's a structural incentive to *respond* to disasters rather than *prevent* them, because the response is visible and the prevention isn't. In Brazil, deforestation ran 8-10% higher in election years when incumbents needed campaign funding. The drainage infrastructure that would have protected your workers' neighborhood keeps not getting built, because a politician distributing sandbags after the flood gets votes that a politician who built the drainage three years ago does not.
+The political layer makes this harder. In many markets, local politicians trade emergency supplies, things like food, building materials, and cash, for votes after disasters. This isn't just corruption. It's a structural incentive to *respond* to disasters rather than *prevent* them, because the response is visible and the prevention isn't. In Brazil, deforestation ran 8-10% higher in election years when incumbents needed campaign funding. The drainage infrastructure that would have protected your workers' neighborhood keeps not getting built, because a politician distributing sandbags after the flood gets votes that a politician who built the drainage three years ago does not.
 
-This means that when businesses advocate for property rights, transparent disaster fund accounting, and climate infrastructure investment in their operating markets — that's not philanthropy. That's protecting your labor supply. The companies that understand this and engage on it — through industry associations, through their development bank relationships, through the policy conversations they're already invited to — are doing supply chain risk management, not Corporate Social Responsibility.
+This means that when businesses advocate for property rights, transparent disaster fund accounting, and climate infrastructure investment in their operating markets, they're not doing philanthropy. They're protecting their labor supply. The companies that understand this and engage on it, through industry associations, development bank relationships, and the policy conversations they're already invited to, are doing supply chain risk management, not Corporate Social Responsibility.
 
 > **✦ PULL QUOTE:** *"Your workers are in flood zones because the bus doesn't go anywhere safer. That's your operational risk. Advocacy for better infrastructure is how you fix it."*
 
@@ -118,19 +118,19 @@ This means that when businesses advocate for property rights, transparent disast
 
 ## [CLOSE]
 
-There is a $55 billion annual adaptation financing gap in Latin America and the Caribbean. That's what the UN Environment Programme estimates the region needs by 2030 to really manage its climate exposure. Current flows are a fraction of that — and most of what does flow goes toward cutting future emissions, not adapting to the climate change that's already here.
+There is a $55 billion annual adaptation financing gap in Latin America and the Caribbean. That's what the UN Environment Programme estimates the region needs by 2030 to really manage its climate exposure. Current flows are a fraction of that, and most of what does flow goes toward cutting future emissions rather than adapting to the climate change that's already here.
 
 That gap is a risk. It's also a market.
 
 Businesses that provide climate data services, adaptation infrastructure, parametric insurance products, resilient agricultural inputs, or workforce housing solutions are entering a market where the demand is structural and the public sector is openly inviting private participation.
 
-And businesses that aren't explicitly in the adaptation market should still take the signal: the companies that do the exposure mapping now — that build climate resilience into their sourcing decisions, their workforce housing, their logistics planning — will have lower variance, more reliable supply chains, and a durable cost advantage over competitors who are still treating this as a future problem.
+And businesses that aren't explicitly in the adaptation market should still take the signal. The companies that do the exposure mapping now, that build climate resilience into their sourcing decisions, their workforce housing, and their logistics planning, will have lower variance, more reliable supply chains, and a durable cost advantage over competitors who are still treating this as a future problem.
 
-It isn't a future problem. It's the operating environment. The report documents what's already happening, what's already in the numbers. The question isn't whether climate risk affects your business in Latin America and the Caribbean.
+It isn't a future problem. It's the operating environment today. The report documents what's already happening, what's already in the numbers. The question isn't whether climate risk affects your business in Latin America and the Caribbean.
 
-It does. The question is whether you've started counting it.
+It does. The question is whether you've started taking it into account.
 
-> **✦ PULL QUOTE:** *"The companies that treat climate adaptation as supply chain resilience — not philanthropy — will simply be better run. That's the whole argument."*
+> **✦ PULL QUOTE:** *"The companies that treat climate adaptation as supply chain resilience, and not as philanthropy, will simply be better run. That's the whole argument."*
 
 ---
 
@@ -141,9 +141,9 @@ It does. The question is whether you've started counting it.
 ::: {.callout-tip title="Production notes"}
 **Charts to show on camera:**
 
-1. **Figure ES.1** — Deaths vs. people *affected* by climate disasters, 1970–2024. Show during Section 2. Key visual: deaths are trending down, "affected" stays flat. Recreate as a clean two-panel line chart. Frame it explicitly: *the insured event is getting less likely; the uninsured disruption is not.*
+1. **Figure ES.1** — Deaths vs. people *affected* by climate disasters, 1970–2024. Show during Section 2. Key visual: deaths are trending down, "affected" stays flat. Recreate as a clean two-panel line chart. Frame it explicitly: the insured event is getting less likely; the uninsured disruption is not.
 
-2. **Figure ES.2** — Change in poverty gap by social protection system quality, years after a climate shock. Show during Section 3. Key visual: three diverging lines — nascent, emerging, established. Recreate as a clean line chart. Frame it as: *recovery speed by market. This is your operational risk, by country.*
+2. **Figure ES.2** — Change in poverty gap by social protection system quality, years after a climate shock. Show during Section 3. Key visual: three diverging lines, nascent, emerging, established. Recreate as a clean line chart. Frame it as: recovery speed by market. This is your operational risk, by country.
 
 **Pull quote delivery:** Each ✦ pull quote should be a beat — pause before, pause after. These work well as full-screen text overlays between sections, or as lower-third cards during B-roll of supply chain/infrastructure footage.
 
