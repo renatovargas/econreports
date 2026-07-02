@@ -1,0 +1,151 @@
+---
+title: "Adaptarse a la Adversidad — Guión para YouTube (Edición Empresarial)"
+subtitle: "Lo que un informe del Banco Mundial sobre riesgo climático en América Latina realmente significa para las empresas que operan en la región"
+format: html
+---
+
+---
+
+::: {.callout-note}
+**Duración:** ~10 minutos | **Tono:** Briefing empresarial, cadencia estilo NYT Daily | **Fuente:** *Adaptarse a la Adversidad: Pobreza y Riesgos Climáticos en América Latina y el Caribe* (Banco Mundial, 2026)
+:::
+
+---
+
+## [APERTURA]
+
+Si tu cadena de suministro pasa por el Corredor Seco de Centroamérica — a través de proveedores agrícolas, procesadoras rurales, trabajadores estacionales — entonces el riesgo de sequía ya está dentro de tu estructura de costos. Simplemente puede que aún no lo hayas contabilizado así.
+
+Si tu fuerza laboral vive en asentamientos informales que se inundan periódicamente, eso es un riesgo operacional. No es un tema de Responsabilidad Social Empresarial. No es el problema de otro. Es un riesgo operacional.
+
+El Banco Mundial acaba de publicar un informe llamado *Adaptarse a la Adversidad*. Está enmarcado en torno a la pobreza y el cambio climático en América Latina y el Caribe, y si lo lees tal como está escrito — como un documento de economía del desarrollo — probablemente lo archivarías y seguirías adelante. Pero léelo como un briefing de riesgo empresarial y mapea casi exactamente las cosas que silenciosamente destruyen márgenes y disrumpen operaciones en la región: fragilidad en la cadena de suministro, indisponibilidad de la fuerza laboral, falla de infraestructura, y los gobiernos que puede que aparezcan o no a ayudar.
+
+Eso es lo que hacemos hoy. No una revisión de política pública. Una lectura empresarial.
+
+> **✦ FRASE CLAVE:** *"El riesgo climático en ALC no está por llegar a tu empresa. Ya está adentro. La pregunta es si lo has mirado de frente."*
+
+---
+
+## [SECCIÓN 1: ¿SABES DÓNDE ESTÁ TU EXPOSICIÓN?]
+
+Empecemos con la geografía. Al año 2020, alrededor de 240 millones de personas en América Latina y el Caribe — más de uno de cada tres — viven en áreas expuestas a al menos un peligro climático severo. Sequías, olas de calor, huracanes, inundaciones, deslizamientos.
+
+Ahora superpón eso con los lugares donde realmente operan las cadenas de valor en la región.
+
+El Corredor Seco de Centroamérica — El Salvador, Guatemala, Honduras, Nicaragua — es una de las zonas con mayor exposición a sequías del mundo. También es un corredor crítico para el café, la caña de azúcar, el aceite de palma y la manufactura de ropa. El noreste de Brasil, la región del Chaco y las costas caribeñas también son puntos críticos de alto riesgo. En total, el informe estima que 64 millones de personas — alrededor del 10% de la población del continente — viven en zonas donde la pobreza y el peligro climático se superponen genuinamente.
+
+La traducción empresarial: esos 64 millones no son una cifra humanitaria abstracta. Son tu base de proveedores de primer y segundo nivel. Son tu fuerza laboral estacional. Son las personas que conducen tus camiones y operan tus instalaciones de procesamiento. Y los datos muestran que están desproporcionadamente expuestos.
+
+El informe encuentra que casi el 45% de los hogares pobres de la región están expuestos a al menos un peligro climático severo. Para la sequía en particular — el peligro más operacionalmente relevante para las cadenas agroalimentarias — el 18,6% de los hogares pobres están en zonas expuestas, frente al 11,4% de los hogares no pobres. Esa brecha no es aleatoria. Los hogares pobres se concentran cerca del trabajo informal, que a su vez se agrupa cerca de los centros agrícolas y logísticos que también se ubican en geografías de alto riesgo.
+
+La mayoría de las empresas que operan en la región no han realizado este mapeo. La mayoría no sabe cuáles de sus proveedores están en un corredor de sequía, ni cuáles de sus centros de distribución están en una zona de inundación. Esa es la primera brecha.
+
+> **✦ FRASE CLAVE:** *"Tu mapa de exposición y tu mapa de proveedores son el mismo documento. La mayoría de las empresas simplemente no los ha puesto uno al lado del otro."*
+
+---
+
+## [SECCIÓN 2: EL GOLPE NO ES EL HURACÁN — ES LO QUE VIENE DESPUÉS]
+
+Hay algo contraintuitivo en los datos, y es importante para entender cómo deben pensar las empresas sobre este riesgo.
+
+*[CORTE A: Figura ES.1 — gráfico de dos paneles. Abrir con el panel de muertes (izquierda).]*
+
+Entre 1970 y 2024, las muertes por causas climáticas en la región mostraron una tendencia *a la baja*. Mejores sistemas de alerta temprana, mejor respuesta ante desastres. El evento catastrófico — el que activa cláusulas de fuerza mayor y reclamos de seguros — es, de hecho, cada vez menos letal.
+
+*[TRANSICIÓN: Deslizar o difuminar al panel de "personas afectadas" (derecha). Mantener la línea plana en pantalla.]*
+
+Pero el número de personas *afectadas* — es decir, cuyas vidas y medios de vida fueron significativamente trastornados — se mantuvo obstinadamente alto, incluso mientras la población crecía y la preparación mejoraba.
+
+*[REGRESO A CÁMARA. La figura puede permanecer como un elemento inferior o difuminarse.]*
+
+Para una empresa, esa distinción lo es todo.
+
+El evento catastrófico asegurado no es tu principal exposición. Tu principal exposición es la disrupción crónica: la cosecha que llega un 30% por debajo del pronóstico por una temporada de sequía irregular. El trabajador que falta dos semanas porque su barrio se inundó y tuvo que reubicar a su familia. El camino que se lavó y añadió cuatro días a tu ciclo logístico. El proveedor que vendió su ganado para sobrevivir una sequía y no tiene ningún colchón cuando la siguiente temporada va mal.
+
+Nada de eso aparece en un reclamo de seguro. Todo está en tu estructura de costos.
+
+El informe documenta en detalle lo que sucede a nivel del hogar: familias obligadas a vender activos productivos — animales, herramientas — para hacer frente a un shock, lo que significa que no tienen reservas cuando llega el siguiente. Trabajadores que recortan gastos en alimentación y atención médica. Niños que faltan a la escuela. Estos no son solo resultados sociales. Aparecen como rotación de personal, reducción de la productividad y mayores costos de capacitación. Aparecen en tus operaciones.
+
+> **✦ FRASE CLAVE:** *"El desastre no va a aparecer como un evento de fuerza mayor. Va a aparecer como varianza que no puedes explicar — y que no puedes cubrir."*
+
+---
+
+## [SECCIÓN 3: EL PAÍS DEL QUE TE ABASTECES ES UNA DECISIÓN DE RIESGO]
+
+El informe comparó lo que sucede en diferentes mercados después de un evento climático mayor, y clasificó los países según la calidad de sus sistemas de protección social — incipientes, emergentes o consolidados.
+
+En países con sistemas consolidados — Argentina, Brasil, Chile, República Dominicana, Uruguay — la brecha de pobreza apenas se mueve después de un shock climático. Las personas reciben apoyo rápido, se recuperan más rápido y vuelven a la fuerza laboral.
+
+En países con sistemas incipientes — Belice, Honduras, Paraguay — la brecha de pobreza se dispara y se mantiene elevada durante *años* después del mismo tipo de evento.
+
+*[CORTE A: Figura ES.2 — mostrar las tres líneas desde el año cero. Dejar que se animen o se revelen de izquierda a derecha mientras se pronuncia la siguiente oración.]*
+
+*[RESALTAR: la línea incipiente disparándose hacia arriba. Mantener 2-3 segundos.]*
+
+*[REGRESO A CÁMARA.]*
+
+¿Qué significa eso para una empresa?
+
+Significa que el país del que te abasteces es una decisión de riesgo, lo hayas tomado conscientemente o no. La velocidad a la que tus socios locales, tu fuerza laboral y tu base de proveedores se recuperan de un evento climático está determinada en parte por la infraestructura de resiliencia del país en el que operan. En un mercado como Uruguay, una mala tormenta interrumpe las operaciones durante meses. En Honduras, la misma tormenta las interrumpe durante años — porque los trabajadores no tienen el apoyo para recuperarse rápidamente, y tampoco tus proveedores.
+
+Algunos mercados de la región también han desarrollado herramientas innovadoras de financiamiento del riesgo climático. La Instalación de Seguro contra Riesgos Catastróficos del Caribe cubre 23 países y ha pagado más de 200 millones de dólares en desembolsos automáticos y rápidos desde 2007 — sin un proceso lento de reclamos. El programa CADENA de México proporciona seguros indexados al clima para agricultores, con pagos que se activan ante déficits de lluvia medibles. Estas herramientas importan porque determinan con qué rapidez llega el dinero a las personas de tu cadena de suministro cuando algo sale mal.
+
+Cuando estás eligiendo entre abastecerte de Honduras o de Costa Rica — que tiene una infraestructura de resiliencia climática sustancialmente más sólida — eso es una decisión de riesgo. El diferencial de costos que estás optimizando puede ser menor que la varianza operacional que estás absorbiendo.
+
+> **✦ FRASE CLAVE:** *"El país del que te abasteces es una decisión de riesgo. Si la tomaste conscientemente es otra pregunta."*
+
+---
+
+## [SECCIÓN 4: POR QUÉ TUS TRABAJADORES ESTÁN ATRAPADOS AHÍ — Y QUÉ PUEDES HACER]
+
+Aquí es donde el informe entra en un territorio que la mayoría de los lectores empresariales nunca examinaría — y que no debería ignorar.
+
+¿Por qué los trabajadores de tus instalaciones y las de tus proveedores viven en asentamientos informales propensos a inundaciones? La respuesta fácil es: son pobres y no tienen opciones. El informe va más allá.
+
+Las personas en esos asentamientos a menudo conocen el riesgo. Están ahí porque es cerca del trabajo — cerca de tu fábrica, tu planta de procesamiento, tu centro de distribución. No hay autobús que vaya a un lugar más seguro. No hay vivienda asequible en una zona de menor riesgo. No están tomando una mala decisión. Están tomando la única decisión disponible.
+
+Y aquí está la parte realmente sorprendente: a menudo no invierten en proteger sus hogares contra inundaciones — no porque no les importe, sino porque no son dueños de sus hogares. Si pueden ser desalojados en cualquier momento, ¿para qué gastar dinero mejorando un lugar que no poseen legalmente? Un estudio en Perú encontró que después de la titulación de tierras — al dar a las personas la propiedad formal de la tierra en la que ya vivían — la inversión en vivienda aumentó un 68%. En Ecuador, los derechos de propiedad seguros impulsaron más proyectos comunitarios de defensa contra inundaciones. En las villas de Argentina, las familias que obtuvieron el título de su tierra comenzaron a mejorar sus hogares.
+
+El sistema en el que viven tus trabajadores los está dejando estructuralmente expuestos — y esa exposición fluye directamente hacia tu riesgo operacional.
+
+La capa política hace esto más difícil. En muchos mercados, los políticos locales intercambian suministros de emergencia — alimentos, materiales de construcción, efectivo — por votos después de los desastres. Esto no es solo corrupción. Es un incentivo estructural para *responder* a los desastres en lugar de *prevenirlos*, porque la respuesta es visible y la prevención no lo es. En Brasil, la deforestación fue un 8-10% mayor en años electorales cuando los titulares buscaban la reelección — porque el dinero del aprovechamiento forestal financia campañas. La infraestructura de drenaje que habría protegido el barrio de tus trabajadores sigue sin construirse, porque el político que distribuye sacos de arena después de la inundación obtiene votos que el político que construyó el drenaje hace tres años no obtiene.
+
+Esto significa que cuando las empresas abogan por derechos de propiedad, rendición de cuentas en el gasto de los fondos de emergencia e inversión en infraestructura climática en sus mercados de operación — eso no es filantropía. Eso es proteger tu oferta de mano de obra. Las empresas que entienden esto y se involucran — a través de asociaciones empresariales, de sus relaciones con bancos de desarrollo, de las conversaciones de política pública a las que ya son invitadas — están gestionando el riesgo de su cadena de suministro, no su responsabilidad social.
+
+> **✦ FRASE CLAVE:** *"Tus trabajadores viven en zonas de inundación porque el autobús no va a ningún lugar más seguro. Ese es tu riesgo operacional. Abogar por mejor infraestructura es como lo resuelves."*
+
+---
+
+## [CIERRE]
+
+Existe una brecha de financiamiento para la adaptación climática de 55.000 millones de dólares anuales en América Latina y el Caribe. Eso es lo que el Programa de las Naciones Unidas para el Medio Ambiente estima que la región necesita para el año 2030 para gestionar realmente su exposición climática. Los flujos actuales son una fracción de eso — y la mayor parte de lo que sí fluye va hacia la reducción de emisiones futuras, no hacia la adaptación al cambio climático que ya está aquí.
+
+Esa brecha es un riesgo. También es un mercado.
+
+Las empresas que proveen servicios de datos climáticos, infraestructura de adaptación, productos de seguros paramétricos, insumos agrícolas resilientes o soluciones de vivienda para la fuerza laboral están entrando en un mercado donde la demanda es estructural y el sector público está invitando abiertamente a la participación privada.
+
+Y las empresas que no están explícitamente en el mercado de la adaptación de todas formas deben tomar nota: las empresas que realicen el mapeo de exposición ahora — que incorporen la resiliencia climática en sus decisiones de abastecimiento, en la vivienda de su fuerza laboral, en su planificación logística — tendrán menor varianza, cadenas de suministro más confiables y una ventaja de costos duradera sobre los competidores que aún tratan esto como un problema futuro.
+
+No es un problema futuro. Es el entorno operativo. El informe documenta lo que ya está sucediendo, lo que ya está en los números. La pregunta no es si el riesgo climático afecta a tu empresa en América Latina y el Caribe.
+
+Lo hace. La pregunta es si ya has empezado a contabilizarlo.
+
+> **✦ FRASE CLAVE:** *"Las empresas que traten la adaptación climática como resiliencia de la cadena de suministro — no como filantropía — simplemente estarán mejor gestionadas. Ese es el argumento completo."*
+
+---
+
+*[FIN — aprox. 10-11 minutos]*
+
+---
+
+::: {.callout-tip title="Notas de producción"}
+**Gráficos para mostrar en cámara:**
+
+1. **Figura ES.1** — Muertes vs. personas *afectadas* por desastres climáticos, 1970–2024. Mostrar durante la Sección 2. Visual clave: las muertes muestran tendencia a la baja, los "afectados" se mantienen planos. Recrear como un gráfico de líneas limpio de dos paneles. Enmarcar explícitamente: *el evento asegurado es cada vez menos probable; la disrupción no asegurada no lo es.*
+
+2. **Figura ES.2** — Cambio en la brecha de pobreza según la calidad del sistema de protección social, años después de un shock climático. Mostrar durante la Sección 3. Visual clave: tres líneas divergentes — incipiente, emergente, consolidado. Recrear como un gráfico de líneas limpio con etiquetas en los extremos. Enmarcar como: *velocidad de recuperación por mercado. Este es tu riesgo operacional, por país.*
+
+**Entrega de frases clave:** Cada frase ✦ debe ser una pausa — antes y después. Funcionan bien como superposiciones de texto en pantalla completa entre secciones, o como tarjetas en la parte inferior durante tomas de apoyo de cadenas de suministro o infraestructura.
+
+**Los títulos de sección** son guías editoriales únicamente — no se pronuncian en cámara.
+:::

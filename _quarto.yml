@@ -3,12 +3,13 @@ project:
 
 book:
   title: "Economic Reports"
-  author: "Norah Jones"
+  author: "Renato Vargas"
   date: "7/2/2026"
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
+    - reports/0001-adapting-to-adversity.qmd
     - references.qmd
 
 bibliography: references.bib
