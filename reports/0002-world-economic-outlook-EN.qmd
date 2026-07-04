@@ -1,0 +1,123 @@
+---
+title: "Global Economy in the Shadow of War — YouTube Script (Business Edition)"
+subtitle: "What the IMF's April 2026 World Economic Outlook actually means for businesses with global exposure"
+format: html
+---
+
+---
+
+::: {.callout-note}
+**Runtime:** ~10 minutes | **Tone:** Business briefing, NYT Daily cadence | **Source:** *World Economic Outlook: Global Economy in the Shadow of War* (IMF, April 2026)
+:::
+
+---
+
+## [OPEN]
+
+A war that started five weeks ago has already moved the price of oil, the cost of shipping goods across the Pacific, and the odds that central banks raise interest rates again this year. Have business leaders actually planned for that for the rest of 2026?
+
+Hi, I'm Renato Vargas, an economist and independent consultant who has worked with international organizations for almost two decades. The IMF just published its April 2026 World Economic Outlook, written in the middle of the war in the Middle East. In this video, we're going to look at what it means for businesses with international exposure: where the shock is actually landing geographically, why the number that matters most isn't the average forecast, how much the country a business sources from or sells into changes its risk, and a supply chain chokepoint most executives have never priced at all.
+
+> **✦ PULL QUOTE:** *"This isn't a Middle East story with global footnotes. It's a global cost shock that happens to have a Middle East address."*
+
+---
+
+## [SECTION 1: WHERE THE SHOCK IS ACTUALLY LANDING]
+
+On February 28, 2026, war broke out in the Middle East. Within weeks, the Strait of Hormuz, the corridor that normally carries about 20 million barrels of oil a day, roughly a fifth of daily global oil use, stopped moving. Around 8.5 million barrels a day of crude exports were cut off, and major production facilities shut down, some as a precaution, some because they were damaged.
+
+That single chokepoint is why oil is now expected to average $82 a barrel in 2026, an increase of over 21% for the year. Natural gas has been hit even harder in Europe and Asia, because more than three-quarters of the world's seaborne liquefied natural gas moves through that same strait, and most of it is headed to Asia.
+
+*[CUT TO: Figure 1.9 — GDP Growth Revisions in the Reference Forecast, bar chart by group.]*
+
+Here's the business translation of that number. The IMF's own growth revisions split the world cleanly into winners and losers of this shock. Countries that export energy, as a group, actually got a small upward or neutral revision. Countries that import energy got cut. The poorest countries that import energy took the deepest cut of all, half a percentage point off their growth over 2026 and 2027 combined. Wealthier economies that import energy, like the euro area and the United Kingdom, took a smaller but still real hit. And the conflict-affected region itself, the Middle East and North Africa, was revised down by close to three percentage points compared with what was expected before the war.
+
+*[RETURN TO CAMERA.]*
+
+Any company whose costs run through diesel, jet fuel, fertilizer, or anything shipped by tanker is exposed to this, whether or not it has a single supplier in the region. Companies whose revenue comes from an energy-exporting country may actually be catching a tailwind. Either way, this exposure can now be located on a map.
+
+> **✦ PULL QUOTE:** *"Energy importer or energy exporter isn't just a category on a company's income statement anymore. After February, it's the whole story."*
+
+---
+
+## [SECTION 2: THE NUMBER THAT MATTERS MOST ISN'T THE AVERAGE]
+
+Here's what makes this report different from a normal forecast update. The IMF didn't publish one number. It published three.
+
+The calmer, main forecast assumes the war stays relatively short and energy production and shipping return to normal by the middle of 2026. Under that assumption, the world economy grows 3.1% this year, only two-tenths of a point below what was expected in January, and prices, on average, rise faster, climbing to 4.4% for the year.
+
+That sounds manageable. It is, if the war ends on schedule.
+
+But the IMF also modeled a worse case, in which oil prices rise further and stay high longer, and an even harsher case, in which damage to energy infrastructure lingers into next year and people start expecting prices to keep climbing. Under that harshest case, the world economy grows by only around 2%, which the IMF notes has only happened four times since 1980, the last two being the global financial crisis and the pandemic. Prices in that scenario climb by nearly 6% over the year.
+
+The IMF's own risk model puts a 25% chance on global growth falling below 2% this year, and a 38% chance that prices end up rising more than 5% over the year. Those are not small, far-off risks. They're closer to a coin flip than a rounding error.
+
+For a business, that means the average forecast isn't the plan. The plan is the range. If a company's budget, its financial safety nets, and its inventory planning are all built around the calmer scenario, there is no cushion if the war runs even a few weeks longer than assumed.
+
+> **✦ PULL QUOTE:** *"The calm scenario for this war barely moves the numbers. The harsh scenario is a recession. Businesses should plan for both, not just the average."*
+
+---
+
+## [SECTION 3: WHERE A BUSINESS SOURCES FROM AND SELLS TO IS NOW A WAR-EXPOSURE DECISION]
+
+Not every country is being hit the same way, and the gap is bigger than most planning models assume.
+
+Inside the conflict region itself, the damage is wildly uneven. Iran's growth forecast for 2026 was cut by more than seven percentage points, into an outright shrinking economy. Saudi Arabia, the United Arab Emirates, and Oman, which have more alternative export routes and less direct war damage, saw much smaller downgrades. Egypt, which buys more energy and food from abroad than it sells, took a milder but still real hit from higher fuel and fertilizer costs.
+
+Outside the region, Brazil is actually expected to get a small net benefit in 2026 because it sells more energy abroad than it buys, even as slower global demand weighs on it further out. Several South and Southeast Asian economies are seeing weaker tourism and money sent home by workers abroad because of the disruption, a channel that has nothing to do with oil directly and everything to do with who a company's customers are and where their relatives work.
+
+The report is also clear that this exposure isn't confined to the country where fighting is happening. Countries that share a border with a conflict zone, and countries that trade heavily with one, absorb a real but smaller and shorter-lived hit as trade routes adjust and governments respond.
+
+None of this is random. It comes down to how dependent a country is on energy, how exposed it is to trade, and how fast its institutions can respond. That means the country a company sources components from, and the country its growth depends on, has quietly become something worth weighing the same way a lender weighs the risk of a loan.
+
+> **✦ PULL QUOTE:** *"Where a business sources from, and where it sells, is now a decision about exposure to this war, whether it's been labeled that way or not."*
+
+---
+
+## [SECTION 4: THE CHOKEPOINT MOST EXECUTIVES HAVEN'T PRICED]
+
+There's a second story buried in this report that has nothing to do with the war, and it may matter more to businesses over the next decade.
+
+Rare earth elements, the materials behind permanent magnets, electric motors, wind turbines, and a long list of defense and electronics products, are overwhelmingly processed in one country. China controls the large majority of the world's capacity to separate and refine these materials, even in cases where the raw ore is mined elsewhere. When China introduced export licensing on some of these materials in 2025, global shipments of permanent magnets fell sharply within months.
+
+*[CUT TO: Figure 1.SF.6 — Output Losses by Country from a Major REE Disruption, bar chart by country.]*
+
+The IMF modeled what happens if that supply were cut by 80% for an extended period, the kind of disruption that could come from a trade dispute rather than a war. In the scenario where businesses have little time to adjust, which is the realistic one for the first year of any disruption, the US economy could shrink by around 1.5%, and Germany's by around 1.2%, with the damage concentrated in exactly the industries, cars, electronics, defense, that rely most on these materials.
+
+*[RETURN TO CAMERA.]*
+
+The IMF's own conclusion is blunt: trying to make a single country fully self-reliant in this supply chain is expensive, and doing it alone costs far more than doing it together with other buyers. That's a note for policymakers, but it's also a signal for any company that touches this supply chain, directly or several suppliers removed: spreading out suppliers here isn't a luxury, it's cheaper than the alternative.
+
+The same logic that applies to rare earths applies to defense spending, which the IMF also flags as a fast-growing but expensive trend worldwide, with governments paying for most of it by borrowing more, rather than raising more money through taxes. That's a signal for companies that sell to governments or their contractors: the money is there, but so is the financial strain on government budgets that eventually comes looking for savings elsewhere.
+
+> **✦ PULL QUOTE:** *"Four rare earth elements that most companies have never sourced directly are quietly built into electric motors, defense contracts, and wind turbines everywhere."*
+
+---
+
+## [CLOSE]
+
+Every one of these dynamics, the energy shock, the scenario uncertainty, the country-level dispersion, the rare earth chokepoint, existed before this war started. The war didn't create these risks. It just turned the lights on and made them impossible to ignore.
+
+Companies that treat this report as a one-off update on a war will re-read it again the next time oil spikes. Companies that use it to build a standing playbook, a real range of scenarios instead of one forecast, a map of which revenue and cost lines run through energy-exposed geography, and a plan to reduce reliance on single-source inputs like rare earths, will spend less time reacting the next time something like this happens. And given how the IMF describes the current environment, rising geopolitical risk, thinner government financial cushions, and supply chains still concentrated in a handful of places, there will be a next time.
+
+The war may end in a matter of weeks. The exposure it revealed will not disappear when it does.
+
+> **✦ PULL QUOTE:** *"The war may end in weeks. The exposure it revealed won't disappear with it."*
+
+---
+
+*[END — approx. 10–11 minutes]*
+
+---
+
+::: {.callout-tip title="Production notes"}
+**Charts to show on camera:**
+
+1. **Figure 1.9 — GDP Growth Revisions in the Reference Forecast.** Show during Section 1, right after the line about the Strait of Hormuz and oil prices. Key visual: energy exporters get a flat-to-positive revision, energy importers (advanced and emerging) get cut, low-income energy importers get cut the most, and the conflict-affected Middle East and North Africa group gets cut by roughly three points. Frame it for a business audience as: exposure to this war is a function of whether a company's costs or revenue run through energy, not whether it has an office in the region.
+
+2. **Figure 1.SF.6 — Output Losses by Country from a Major REE Disruption.** Show during Section 4, right after describing the rare earth licensing episode. Key visual: under the low-elasticity (limited-adjustment-time) scenario, GDP falls by about 1.5% in the United States and about 1.2% in Germany, with France, the UK, India, and Japan also shown on the same chart. Frame it as: this is what happens to a balance sheet if a chokepoint nobody controls gets squeezed, and it's a preview of what supply chain concentration risk looks like in numbers.
+
+**Pull quote delivery:** Each ✦ pull quote should land as a beat, pause before, pause after. Use as full-screen text overlays between sections or lower-third cards over B-roll of shipping ports, oil infrastructure, or electronics manufacturing lines.
+
+**Section headers** are editorial guides — not spoken on camera.
+:::

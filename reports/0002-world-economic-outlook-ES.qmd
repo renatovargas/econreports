@@ -1,0 +1,123 @@
+---
+title: "La economía global a la sombra de la guerra — Guion de YouTube (Edición de Negocios)"
+subtitle: "Qué significa realmente el Panorama Económico Mundial del FMI de abril de 2026 para empresas con exposición internacional"
+format: html
+---
+
+---
+
+::: {.callout-note}
+**Duración:** ~10 minutos | **Tono:** Briefing de negocios, ritmo tipo NYT Daily | **Fuente:** *World Economic Outlook: Global Economy in the Shadow of War* (FMI, abril de 2026)
+:::
+
+---
+
+## [APERTURA]
+
+Una guerra que empezó hace cinco semanas ya movió el precio del petróleo, el costo de enviar mercancía a través del Pacífico y la probabilidad de que los bancos centrales suban las tasas de interés otra vez este año. ¿Ya lo tomaron en cuenta los líderes empresariales para lo que queda de 2026?
+
+Hola, soy Renato Vargas, economista y consultor independiente que ha trabajado con organismos internacionales por casi dos décadas. El FMI acaba de publicar su Panorama Económico Mundial de abril de 2026, escrito en plena guerra en Medio Oriente. En este video vamos a ver qué significa para empresas con exposición internacional: dónde está aterrizando realmente el golpe geográficamente, por qué el número más importante no es el promedio del pronóstico, cuánto cambia el riesgo de una empresa el país del que se abastece o al que le vende, y un cuello de botella en la cadena de suministro que la mayoría de los ejecutivos nunca ha tomado en cuenta.
+
+> **✦ FRASE DESTACADA:** *"Esto no es una historia de Medio Oriente con notas al pie globales. Es un shock de costos global que tiene dirección en Medio Oriente."*
+
+---
+
+## [SECCIÓN 1: DÓNDE ESTÁ ATERRIZANDO REALMENTE EL GOLPE]
+
+El 28 de febrero de 2026 estalló la guerra en Medio Oriente. En cuestión de semanas, el Estrecho de Ormuz, el corredor por donde normalmente circulan unos 20 millones de barriles de petróleo al día, casi una quinta parte del consumo diario mundial, dejó de moverse. Alrededor de 8.5 millones de barriles diarios de exportaciones de crudo quedaron cortados, y las principales plantas de producción cerraron, algunas por precaución, otras porque sufrieron daños.
+
+Ese único cuello de botella explica por qué se espera que el petróleo promedie 82 dólares por barril en 2026, un aumento de más del 21% en el año. El gas natural se ha visto golpeado aún más en Europa y Asia, porque más de tres cuartas partes del gas natural licuado que se transporta por mar pasa por ese mismo estrecho, y la mayor parte tiene destino asiático.
+
+*[CORTE A: Figura 1.9 — Revisiones del crecimiento económico en el pronóstico principal, gráfico de barras por grupo.]*
+
+Esta es la traducción de negocios de ese número. Las propias revisiones de crecimiento del FMI dividen al mundo con claridad entre ganadores y perdedores de este shock. Los países que venden más energía al mundo de la que compran, como grupo, recibieron una revisión neutral o incluso al alza. Los países que compran más energía de la que producen recibieron un recorte. Los países más pobres que compran energía en el exterior recibieron el recorte más profundo de todos, medio punto porcentual de su crecimiento entre 2026 y 2027 combinados. Las economías más ricas que también compran su energía afuera, como la zona del euro y el Reino Unido, sufrieron un golpe menor pero real. Y la propia región en conflicto, Medio Oriente y Norte de África, fue revisada a la baja en casi tres puntos porcentuales respecto a lo que se esperaba antes de la guerra.
+
+*[VUELTA A CÁMARA.]*
+
+Cualquier empresa cuyos costos dependan del diésel, el combustible de aviación, los fertilizantes o cualquier cosa transportada en un buque cisterna está expuesta a esto, tenga o no un solo proveedor en la región. Las empresas cuyos ingresos vienen de un país que vende energía al mundo podrían, en realidad, estar aprovechando un viento a favor. De cualquier forma, esta exposición ya se puede ubicar en un mapa.
+
+> **✦ FRASE DESTACADA:** *"Comprar o vender energía al mundo ya no es solo una categoría en el estado de resultados de una empresa. Después de febrero, es toda la historia."*
+
+---
+
+## [SECCIÓN 2: EL NÚMERO MÁS IMPORTANTE NO ES EL PROMEDIO]
+
+Esto es lo que hace diferente a este reporte de una actualización de pronóstico normal. El FMI no publicó solo un número. Publicó tres.
+
+El pronóstico principal, el más tranquilo, asume que la guerra se mantiene relativamente corta y que la producción y el transporte de energía vuelven a la normalidad hacia mediados de 2026. Bajo ese supuesto, la economía mundial crece 3.1% este año, apenas dos décimas por debajo de lo esperado en enero, y los precios, en promedio, suben más rápido, llegando a un 4.4% en el año.
+
+Suena manejable. Y lo es, si la guerra termina según lo previsto.
+
+Pero el FMI también modeló un caso peor, en el que los precios del petróleo suben aún más y se mantienen altos por más tiempo, y un caso todavía más duro, en el que el daño a la infraestructura energética se prolonga hasta el próximo año y la gente empieza a esperar que los precios sigan subiendo. Bajo ese caso más duro, la economía mundial crece apenas alrededor del 2%, algo que según el FMI solo ha ocurrido cuatro veces desde 1980, las últimas dos coincidiendo con la crisis financiera global y la pandemia. Los precios en ese escenario suben casi 6% en el año.
+
+El propio modelo de riesgo del FMI calcula una probabilidad del 25% de que el crecimiento mundial caiga por debajo del 2% este año, y una probabilidad del 38% de que los precios terminen subiendo más de un 5% en el año. No son riesgos pequeños ni lejanos. Están más cerca de una moneda al aire que de un margen de error.
+
+Para una empresa, esto significa que el pronóstico promedio no es el plan. El plan es el rango completo. Si el presupuesto, los colchones financieros y la planeación de inventarios de una empresa están construidos solo alrededor del escenario más tranquilo, no hay margen si la guerra se extiende aunque sea unas semanas más de lo previsto.
+
+> **✦ FRASE DESTACADA:** *"El escenario tranquilo de esta guerra casi no mueve los números. El escenario duro es una recesión. Las empresas deberían planear para los dos, no solo para el promedio."*
+
+---
+
+## [SECCIÓN 3: DÓNDE SE ABASTECE Y DÓNDE VENDE UNA EMPRESA YA ES UNA DECISIÓN DE EXPOSICIÓN A LA GUERRA]
+
+Ahora bien. No todos los países están siendo golpeados de la misma forma, y la brecha es mayor de lo que suponen la mayoría de los modelos de planeación.
+
+Dentro de la propia región en conflicto, el daño es enormemente desigual. El pronóstico de crecimiento de Irán para 2026 fue recortado en más de siete puntos porcentuales, hasta una contracción total de su economía. Arabia Saudita, los Emiratos Árabes Unidos y Omán, que tienen más rutas alternativas de exportación y menos daño directo de la guerra, tuvieron recortes mucho más pequeños. Egipto, que compra más energía y alimentos al exterior de los que vende, sufrió un golpe más leve pero real por el mayor costo de combustibles y fertilizantes.
+
+Fuera de la región, se espera que Brasil obtenga en realidad un pequeño beneficio neto en 2026 porque vende más energía al mundo de la que compra, aunque más adelante lo afecte la desaceleración de la demanda global. Varias economías del sur y sudeste asiático están viendo un debilitamiento del turismo y del dinero que envían a casa los trabajadores en el extranjero por la disrupción. Este es un canal que no tiene nada que ver directamente con el petróleo y todo que ver con quiénes son los clientes de una empresa y dónde trabajan sus familiares.
+
+El reporte también deja claro que esta exposición no se limita al país donde ocurren los combates. Los países que comparten frontera con una zona de conflicto, y los que comercian intensamente con un país en ea situación, absorben un golpe real pero más pequeño y de menor duración, a medida que las rutas comerciales se ajustan y los gobiernos responden.
+
+Nada de esto es aleatorio. Depende de qué tan dependiente sea un país de la energía, qué tan expuesto esté al comercio y qué tan rápido puedan responder sus instituciones. Eso significa que el país del que una empresa se abastece de componentes, y el país del que depende su historia de crecimiento, se convirtió silenciosamente en algo que vale la pena evaluar igual que un prestamista evalúa el riesgo de un préstamo.
+
+> **✦ FRASE DESTACADA:** *"Dónde se abastece una empresa, y dónde vende, ya es una decisión sobre su exposición a esta guerra, se haya etiquetado así o no."*
+
+---
+
+## [SECCIÓN 4: EL CUELLO DE BOTELLA QUE LA MAYORÍA DE LOS EJECUTIVOS NO HA TOMADO EN CUENTA]
+
+Hay una segunda historia escondida en este reporte que no tiene nada que ver con la guerra, y que puede importarle más a las empresas durante la próxima década.
+
+Los elementos de tierras raras, los materiales detrás de los imanes permanentes, los motores eléctricos, las turbinas eólicas y una larga lista de productos de defensa y electrónica, se procesan predominantemente en un solo país. China controla la gran mayoría de la capacidad mundial para separar y refinar estos materiales, incluso en los casos en que el mineral se extrae en otro lugar. Cuando China introdujo requisitos de licencia de exportación para algunos de estos materiales en 2025, los envíos globales de imanes permanentes cayeron con fuerza en cuestión de meses.
+
+*[CORTE A: Figura 1.SF.6 — Pérdidas de producción por país ante una disrupción mayor de tierras raras, gráfico de barras por país.]*
+
+El FMI modeló qué pasaría si ese suministro se cortara en un 80% durante un período prolongado ocasionado, por ejemplo, por una disputa comercial y una guerra. En el escenario donde las empresas tienen poco tiempo para ajustarse, que es el realista para el primer año de cualquier disrupción, la economía de Estados Unidos podría reducirse alrededor de 1.5%, y la de Alemania alrededor de 1.2%, con el daño concentrado justo en las industrias, autos, electrónica, defensa, que más dependen de estos materiales.
+
+*[VUELTA A CÁMARA.]*
+
+La conclusión del propio FMI es clara y lo que dice es que intentar que un solo país se vuelva totalmente autosuficiente en esta cadena de suministro es costoso, y hacerlo en solitario sale mucho más caro que hacerlo junto con otros compradores. Es una nota para quienes hacen política pública, pero también es una señal para cualquier empresa que toque esta cadena de suministro, directamente o varios proveedores más abajo, pues repartir el abastecimiento entre varios proveedores aquí no es un lujo, sale más barato que la alternativa.
+
+La misma lógica que aplica a los materiales de tierras raras aplica al gasto en defensa, que el FMI también señala como una tendencia mundial de rápido crecimiento pero costosa, con gobiernos que pagan la mayor parte pidiendo más dinero prestado en lugar de recaudar más impuestos. Es una señal para las empresas que le venden a gobiernos o a sus contratistas, pues el dinero está ahí, pero también está la presión financiera sobre los presupuestos públicos que eventualmente vendrá a buscar ahorros en otro lado.
+
+> **✦ FRASE DESTACADA:** *"Cuatro elementos de tierras raras que la mayoría de las empresas nunca ha comprado directamente están, en silencio, dentro de motores eléctricos, contratos de defensa y turbinas eólicas en todo el mundo."*
+
+---
+
+## [CIERRE]
+
+Cada una de estas dinámicas, el shock energético, la incertidumbre de los escenarios, la diferencia entre países, el cuello de botella de los materiales de tierras raras, existía antes de que empezara esta guerra. La guerra no creó estos riesgos. Solo encendió la luz y los hizo imposibles de ignorar.
+
+Las empresas que traten este reporte como una actualización puntual sobre una guerra lo van a volver a leer la próxima vez que se dispare el petróleo. Las empresas que lo usen para construir un manual permanente, un rango real de escenarios en lugar de un solo pronóstico, un mapa de qué ingresos y costos dependen de geografía expuesta a la energía, y un plan para depender menos de proveedores únicos como los de tierras raras, van a pasar menos tiempo reaccionando la próxima vez que algo así ocurra. Y según cómo describe el FMI el entorno actual, riesgo geopolítico al alza, colchones financieros de los gobiernos más delgados y cadenas de suministro todavía concentradas en un puñado de lugares, va a haber una próxima vez.
+
+La guerra puede terminar en cuestión de semanas, pero la exposición que reveló no va a desaparecer cuando eso pase.
+
+> **✦ FRASE DESTACADA:** *"La guerra puede terminar en semanas. La exposición que reveló no va a desaparecer con ella."*
+
+---
+
+*[FIN — aprox. 10–11 minutos]*
+
+---
+
+::: {.callout-tip title="Notas de producción"}
+**Gráficos para mostrar en cámara:**
+
+1. **Figura 1.9 — Revisiones del crecimiento económico en el pronóstico principal.** Mostrar durante la Sección 1, justo después de la línea sobre el Estrecho de Ormuz y los precios del petróleo. Visual clave: los países que exportan energía reciben una revisión neutral o al alza, los que la importan (avanzados y emergentes) reciben un recorte, los países de bajos ingresos importadores de energía reciben el mayor recorte, y el grupo de Medio Oriente y Norte de África en conflicto es revisado a la baja en casi tres puntos. Enmarcarlo para una audiencia de negocios como: la exposición a esta guerra depende de si los costos o los ingresos de una empresa dependen de la energía, no de si tiene una oficina en la región.
+
+2. **Figura 1.SF.6 — Pérdidas de producción por país ante una disrupción mayor de tierras raras.** Mostrar durante la Sección 4, justo después de describir el episodio de licencias de tierras raras. Visual clave: bajo el escenario de baja elasticidad (poco tiempo de ajuste), la economía cae cerca de 1.5% en Estados Unidos y cerca de 1.2% en Alemania, con Francia, el Reino Unido, India y Japón también incluidos en el mismo gráfico. Enmarcarlo como: esto es lo que le pasa a un balance financiero si aprietan un cuello de botella que nadie controla, y es un adelanto de cómo se ve en números el riesgo de concentración en la cadena de suministro.
+
+**Entrega de las frases destacadas:** Cada frase con ✦ debe sentirse como una pausa dramática, con silencio antes y después. Funcionan bien como texto a pantalla completa entre secciones, o como tarjetas en la parte inferior sobre imágenes de apoyo de puertos, infraestructura petrolera o líneas de manufactura electrónica.
+
+**Los encabezados de sección** son guías editoriales, no se leen en cámara.
+:::

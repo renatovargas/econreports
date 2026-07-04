@@ -72,9 +72,17 @@ Read the source report at `refs/[FILENAME].txt`. Write a ~10-minute YouTube vide
 
 These apply to everything the host actually says on camera. They do not apply to section headers, stage directions, or callout blocks.
 
-**Write for a clever, engaged high schooler.** If a word would need a footnote in a magazine, find a simpler one. Avoid financial and academic jargon — words like "variance," "hedge," "nexus," "discourse," or "paradigm" have plain-English equivalents. Use jargon only when it is the most precise way to convey a concept from the report, and when you do, let context make the meaning clear without a formal definition.
+**Write for the broadest possible audience — think honors-program high schooler, not MBA.** If a word would need a footnote in a magazine, find a simpler one. Avoid financial and economic jargon — words like "variance," "hedge," "nexus," "discourse," "paradigm," or even standard econ terms like "inflation," "current account," or "monetary tightening" have plain-language equivalents. Reach for the plain version first every time, even when the jargon term is common in business media. Use jargon only when there is no accurate plain-language substitute, and when you do, let context make the meaning clear without a formal definition.
 - Wrong: "It'll show up as variance you can't explain and can't hedge."
 - Right: "It'll bleed quietly into your numbers, and there's no insurance policy that covers it."
+- Wrong: "Inflation rose to 4.4 percent."
+- Right: "Prices, on average, rose faster, climbing 4.4 percent over the year." (Once the idea of "prices rising" is established, later references can shorten to "prices" or "the pace of price increases" rather than reintroducing "inflation.")
+- Wrong: "The current account deficit widened."
+- Right: "The country bought more from the rest of the world than it sold."
+
+**Do not address the audience directly as "you."** Speak about the audience in the third person — "businesses," "business leaders," "executives," "investors," "companies" — rather than turning the viewer into "you" and "your business." This keeps the tone of a briefing about the world, not a lecture aimed at the viewer. This applies throughout the script, including the open: the direct question should implicate business decision-makers in general, not the viewer specifically.
+- Wrong: "Have you priced that into your plan? Your cost base runs through diesel."
+- Right: "Have business leaders priced that into their plans? Any company whose cost base runs through diesel is exposed."
 
 **No colons introducing lists or explanations.** Replace with a period and a full sentence.
 - Wrong: "Here's the problem: workers don't own their homes."
@@ -112,9 +120,9 @@ Common failure modes from past work:
 
 After the English script is fact-checked and final, produce the Spanish version.
 
-**Register:** Use informal **tú** throughout. The host is speaking directly to the viewer. "Usted" would feel too formal for video.
+**Register:** Avoid addressing the viewer directly as "tú" or "usted." Following the English-language rule above, speak in the third person about "las empresas," "los líderes empresariales," "los ejecutivos," "los inversionistas" rather than turning the viewer into the addressee. Keep the narration conversational and direct in tone, just not aimed at "tú" as a grammatical subject.
 
-**Vocabulary:** Use standard pan-Latin American business Spanish. Avoid regionalism that would feel odd outside one country.
+**Vocabulary:** Use standard pan-Latin American business Spanish. Avoid regionalism that would feel odd outside one country. Apply the same plain-language rule as in English: prefer everyday words over technical terms whenever the meaning survives the swap (for example, "aumento generalizado de precios" instead of "inflación" on first mention, then "los precios" on later mentions). Use jargon only when there is no accurate plain-language substitute.
 
 **Key terms:**
 - supply chain → cadena de suministro
