@@ -44,7 +44,7 @@ Read the source report at `refs/[FILENAME].txt`. Write a ~10-minute YouTube vide
 **Frame:** Read the report as a business risk briefing, not a policy document. The through-line is: this risk is already inside your business. The question is whether you've priced it.
 
 **Structure:**
-1. **Open** — Hook with a concrete operational scenario (supply chain, workforce, infrastructure). Establish why this report matters to a business reader specifically.
+1. **Open** — Start with a direct question that implicates the viewer's business immediately. Do not explain that you are reading the report from a business perspective — let the question make that self-evident. Follow the question with a brief self-introduction: "Hi, I'm Renato Vargas, an economist and independent consultant who has worked with international organizations for almost two decades." Then preview the four or five topics the video will cover, framed as what the viewer will learn, not as a table of contents. Do not frame the open as a scenario or description; frame it as a question.
 2. **Section 1: Exposure** — Where is the risk geographically? Translate the report's exposure data into supplier maps, workforce locations, and logistics corridors.
 3. **Section 2: The Nature of the Hit** — Distinguish between catastrophic insured events (getting rarer) and chronic uninsured disruption (staying flat or growing). This is the P&L argument.
 4. **Section 3: Country-Level Risk Variation** — Use the report's comparative data to show that the country you source from is a risk decision. Frame recovery speed and resilience infrastructure as operational variables.
@@ -71,6 +71,10 @@ Read the source report at `refs/[FILENAME].txt`. Write a ~10-minute YouTube vide
 ## Style Rules (apply to all spoken body text)
 
 These apply to everything the host actually says on camera. They do not apply to section headers, stage directions, or callout blocks.
+
+**Write for a clever, engaged high schooler.** If a word would need a footnote in a magazine, find a simpler one. Avoid financial and academic jargon — words like "variance," "hedge," "nexus," "discourse," or "paradigm" have plain-English equivalents. Use jargon only when it is the most precise way to convey a concept from the report, and when you do, let context make the meaning clear without a formal definition.
+- Wrong: "It'll show up as variance you can't explain and can't hedge."
+- Right: "It'll bleed quietly into your numbers, and there's no insurance policy that covers it."
 
 **No colons introducing lists or explanations.** Replace with a period and a full sentence.
 - Wrong: "Here's the problem: workers don't own their homes."

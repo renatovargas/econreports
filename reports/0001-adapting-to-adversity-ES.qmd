@@ -14,13 +14,9 @@ format: html
 
 ## [APERTURA]
 
-Si tu cadena de suministro pasa por el Corredor Seco de Centroamérica — a través de proveedores agrícolas, procesadoras rurales, trabajadores estacionales — entonces el riesgo de sequía ya está dentro de tu estructura de costos. Simplemente puede que aún no lo hayas contabilizado así.
+¿Cuánto del riesgo operacional de una empresa con operaciones en América Latina viene del clima? No de huracanes. No del tipo de desastre que sale en las noticias. Del tipo lento y crónico que nunca aparece como un reclamo de seguros pero que silenciosamente se mete en tus márgenes año tras año. ¿Lo has contabilizado alguna vez?
 
-Si tu fuerza laboral vive en asentamientos informales que se inundan periódicamente, eso es un riesgo operacional. No es un tema de Responsabilidad Social Empresarial. No es el problema de otro. Es un riesgo operacional.
-
-El Banco Mundial acaba de publicar un informe llamado *Adaptarse a la Adversidad*. Está enmarcado en torno a la pobreza y el cambio climático en América Latina y el Caribe, y si lo lees tal como está escrito — como un documento de economía del desarrollo — probablemente lo archivarías y seguirías adelante. Pero léelo como un briefing de riesgo empresarial y mapea casi exactamente las cosas que silenciosamente destruyen márgenes y disrumpen operaciones en la región: fragilidad en la cadena de suministro, indisponibilidad de la fuerza laboral, falla de infraestructura, y los gobiernos que puede que aparezcan o no a ayudar.
-
-Eso es lo que hacemos hoy. No una revisión de política pública. Una lectura empresarial.
+Hola, soy Renato Vargas, economista y consultor independiente con casi dos décadas de trabajo con organizaciones internacionales. El Banco Mundial acaba de publicar un informe importante sobre pobreza y riesgo climático en América Latina y el Caribe. En este video vamos a ver qué significa para las empresas que operan en la región: dónde está realmente tu exposición, por qué la disrupción que deberías temer probablemente no es la que tienes asegurada, cuánto cambia tu perfil de riesgo el país del que te abasteces, y qué pueden hacer las empresas al respecto.
 
 > **✦ FRASE CLAVE:** *"El riesgo climático en ALC no está por llegar a tu empresa. Ya está adentro. La pregunta es si lo has mirado de frente."*
 
@@ -66,7 +62,7 @@ Nada de eso aparece en un reclamo de seguro. Todo está en tu estructura de cost
 
 El informe documenta en detalle lo que sucede a nivel del hogar: familias obligadas a vender activos productivos — animales, herramientas — para hacer frente a un shock, lo que significa que no tienen reservas cuando llega el siguiente. Trabajadores que recortan gastos en alimentación y atención médica. Niños que faltan a la escuela. Estos no son solo resultados sociales. Aparecen como rotación de personal, reducción de la productividad y mayores costos de capacitación. Aparecen en tus operaciones.
 
-> **✦ FRASE CLAVE:** *"El desastre no va a aparecer como un evento de fuerza mayor. Va a aparecer como varianza que no puedes explicar — y que no puedes cubrir."*
+> **✦ FRASE CLAVE:** *"El daño no va a llegar como un gran evento dramático. Va a filtrarse en silencio dentro de tus números, y no hay póliza de seguro que lo cubra."*
 
 ---
 
@@ -90,7 +86,7 @@ Significa que el país del que te abasteces es una decisión de riesgo, lo hayas
 
 Algunos mercados de la región también han desarrollado herramientas innovadoras de financiamiento del riesgo climático. La Instalación de Seguro contra Riesgos Catastróficos del Caribe cubre 23 países y ha pagado más de 200 millones de dólares en desembolsos automáticos y rápidos desde 2007 — sin un proceso lento de reclamos. El programa CADENA de México proporciona seguros indexados al clima para agricultores, con pagos que se activan ante déficits de lluvia medibles. Estas herramientas importan porque determinan con qué rapidez llega el dinero a las personas de tu cadena de suministro cuando algo sale mal.
 
-Cuando estás eligiendo entre abastecerte de Honduras o de Costa Rica — que tiene una infraestructura de resiliencia climática sustancialmente más sólida — eso es una decisión de riesgo. El diferencial de costos que estás optimizando puede ser menor que la varianza operacional que estás absorbiendo.
+Cuando eliges entre abastecerte de Honduras o de Costa Rica, no estás tomando solo una decisión de costos. Estás tomando una decisión de riesgo. La opción más barata puede terminar costándote más cuando un evento climático golpea y tu cadena de suministro tarda años en recuperarse.
 
 > **✦ FRASE CLAVE:** *"El país del que te abasteces es una decisión de riesgo. Si la tomaste conscientemente es otra pregunta."*
 
